@@ -1,0 +1,4 @@
+Phân công công việc:
+Nguyễn Đại Trọng Nhân: phân tích mô tả các chức năng.
+La Văn Phát: thiết kế cơ sở dữ liệu, thiết kế các chức năng trong admin.
+Đoàn Hữu Vinh: thiết kế giao diện trang web trang web và các chức năng.
